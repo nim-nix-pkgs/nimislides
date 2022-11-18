@@ -590,7 +590,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nimib": "nimib",
         "nixpkgs": "nixpkgs_2",
-        "src-nimiSlides-main": "src-nimiSlides-main",
+        "src-nimiSlides-v0_2_1": "src-nimiSlides-v0_2_1",
         "toml_serialization": "toml_serialization_2"
       }
     },
@@ -830,7 +830,7 @@
         "type": "github"
       }
     },
-    "src-nimiSlides-main": {
+    "src-nimiSlides-v0_2_1": {
       "flake": false,
       "locked": {
         "lastModified": 1668417512,
@@ -842,7 +842,7 @@
       },
       "original": {
         "owner": "HugoGranstrom",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v0.2.1",
         "repo": "nimib-reveal",
         "type": "github"
       }
