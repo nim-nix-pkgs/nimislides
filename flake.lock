@@ -1066,11 +1066,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1668435762,
-        "narHash": "sha256-4ArhSbDGEh1HtB4tG0zoUvp7558CfxUklJcsLemSn2w=",
+        "lastModified": 1669304833,
+        "narHash": "sha256-XUC/j0d3QjjTvkZRTjfGM/XfZHKQcLF70sg5Z2xXvLc=",
         "owner": "riinr",
         "repo": "nim-flakes-lib",
-        "rev": "4bebe53096d189c04ac618fc3c108d8082391344",
+        "rev": "53a35251b37bd6c886c3e3e20d4b9e2d966896b4",
         "type": "github"
       },
       "original": {
@@ -1684,11 +1684,11 @@
       },
       "locked": {
         "dir": "v0_3_3",
-        "lastModified": 1668751301,
-        "narHash": "sha256-hoRsCzqDajEpCOunPd+sT7mUmrIXT0SFImW4if2ehh8=",
+        "lastModified": 1668756723,
+        "narHash": "sha256-+XZgs61NRI8HCg+3OF1dcBUl66rlHwWDowUsAu4+Fek=",
         "owner": "nim-nix-pkgs",
         "repo": "nimib",
-        "rev": "b8814a79160ca580c06d25f896a71884c5b497d2",
+        "rev": "582d2ec4016c1b37a0e977ffd5a795634dd14e7a",
         "type": "github"
       },
       "original": {
@@ -1812,11 +1812,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668751740,
-        "narHash": "sha256-AWG59Zy7v575nq7+A2lbd/y5AksRWfkOHS50etnNEok=",
+        "lastModified": 1669418031,
+        "narHash": "sha256-THcehVSoweaQgp6A6jYuLu9OV3S81RrX4BZpJMUwvHU=",
         "owner": "nim-nix-pkgs",
         "repo": "nimislides",
-        "rev": "cb81369146e0d732befcc3564413eb3408d7df35",
+        "rev": "98c4a5154681e9eac01d5c10b7e07247cbdc48f5",
         "type": "github"
       },
       "original": {
@@ -1841,11 +1841,11 @@
       },
       "locked": {
         "dir": "v0_1",
-        "lastModified": 1668751740,
-        "narHash": "sha256-AWG59Zy7v575nq7+A2lbd/y5AksRWfkOHS50etnNEok=",
+        "lastModified": 1669418031,
+        "narHash": "sha256-THcehVSoweaQgp6A6jYuLu9OV3S81RrX4BZpJMUwvHU=",
         "owner": "nim-nix-pkgs",
         "repo": "nimislides",
-        "rev": "cb81369146e0d732befcc3564413eb3408d7df35",
+        "rev": "98c4a5154681e9eac01d5c10b7e07247cbdc48f5",
         "type": "github"
       },
       "original": {
@@ -1870,11 +1870,11 @@
       },
       "locked": {
         "dir": "v0_2",
-        "lastModified": 1668751740,
-        "narHash": "sha256-AWG59Zy7v575nq7+A2lbd/y5AksRWfkOHS50etnNEok=",
+        "lastModified": 1669418031,
+        "narHash": "sha256-THcehVSoweaQgp6A6jYuLu9OV3S81RrX4BZpJMUwvHU=",
         "owner": "nim-nix-pkgs",
         "repo": "nimislides",
-        "rev": "cb81369146e0d732befcc3564413eb3408d7df35",
+        "rev": "98c4a5154681e9eac01d5c10b7e07247cbdc48f5",
         "type": "github"
       },
       "original": {
@@ -1899,11 +1899,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1668751740,
-        "narHash": "sha256-AWG59Zy7v575nq7+A2lbd/y5AksRWfkOHS50etnNEok=",
+        "lastModified": 1669418031,
+        "narHash": "sha256-THcehVSoweaQgp6A6jYuLu9OV3S81RrX4BZpJMUwvHU=",
         "owner": "nim-nix-pkgs",
         "repo": "nimislides",
-        "rev": "cb81369146e0d732befcc3564413eb3408d7df35",
+        "rev": "98c4a5154681e9eac01d5c10b7e07247cbdc48f5",
         "type": "github"
       },
       "original": {
@@ -1932,11 +1932,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1668681245,
-        "narHash": "sha256-IH8t+b9hCfNwEvdC55UEymn8jL457Fo/hx3N/kNTZso=",
+        "lastModified": 1669387357,
+        "narHash": "sha256-z1azVj/5Em5kGhh9OgBOsjTEgMab7hXL/aRilH9tzyI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "bd4bfd814e96488febb38b4b4d0549c56b840c7f",
+        "rev": "55b3f68bda6d4f4dc6092eed0508063f154fa4fd",
         "type": "github"
       },
       "original": {
@@ -6789,11 +6789,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668751199,
-        "narHash": "sha256-DMiiKNHLQHFQ9RK83NJjnm+wmWXgRf0VMsNem3xwF3g=",
+        "lastModified": 1668756634,
+        "narHash": "sha256-+cJ/6BaICEkPH8wCW/GSX1dqsn1yHqdopWViWbOWbwY=",
         "owner": "nim-nix-pkgs",
         "repo": "toml_serialization",
-        "rev": "92ad9ae5c034aefaec33f2b4e0f8977ec8365ee4",
+        "rev": "b756dfa726331ede0ab3446b23719e7a7ba0656b",
         "type": "github"
       },
       "original": {
